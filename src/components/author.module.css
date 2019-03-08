@@ -1,0 +1,28 @@
+.authorWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.authorWrapper p {
+  color: #fff;
+  margin: 0;
+  font-family: 'Flama Semibold', sans-serif;
+}
+
+.authorMeta {
+  margin-left: 1.5rem;
+}
+
+.authorName {
+  font-size: 1.2rem;
+}
+
+.authorRole {
+  font-size: 0.8rem;
+}
+
+.authorImage {
+  border-radius: 50%;
+  width: 64px;
+}

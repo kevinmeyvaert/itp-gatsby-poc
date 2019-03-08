@@ -1,15 +1,12 @@
 {
-  "name": "gatsby-contentful-starter",
-  "description": "Starter Contentful Gatsby Blog",
+  "name": "itp-gatsby-poc",
+  "description": "In The Pocket website Gatsby POC",
   "version": "1.0.0",
-  "author": "Stefan Judis <stefanjudis@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/contentful-userland/gatsby-contentful-starter/issues"
-  },
+  "author": "Kevin Meyvaert <kevin.meyvaert@inthepocket.com>",
   "dependencies": {
     "gatsby-image": "^2.0.13",
     "gatsby-plugin-react-helmet": "^3.0.0",
-    "gatsby-plugin-sharp": "^2.0.6",
+    "gatsby-plugin-sharp": "^2.0.25",
     "gatsby-source-contentful": "^2.0.2",
     "gatsby-transformer-remark": "^2.1.6",
     "gatsby-transformer-sharp": "^2.0.6",
@@ -26,14 +23,14 @@
     "eslint": "^5.6.1",
     "eslint-plugin-react": "^7.11.1",
     "gatsby": "^2.0.18",
-    "gh-pages": "^2.0.1",
     "inquirer": "^6.2.0",
     "prettier": "^1.14.3",
     "rimraf": "^2.6.2",
     "yargs-parser": "^11.0.0"
   },
-  "homepage": "https://github.com/contentful-userland/gatsby-contentful-starter#readme",
+  "homepage": "https://github.com/kevinmeyvaert/itp-gatsby-poc",
   "keywords": [
+    "in the pocket",
     "gatsby",
     "contentful"
   ],
@@ -41,7 +38,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contentful-userland/gatsby-contentful-starter.git"
+    "url": "git+https://github.com/kevinmeyvaert/itp-gatsby-poc.git"
   },
   "scripts": {
     "dev": "gatsby develop",

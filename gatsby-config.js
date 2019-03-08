@@ -21,7 +21,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Contentful starter',
+    title: 'In The Pocket',
   },
   pathPrefix: '/gatsby-contentful-starter',
   plugins: [
